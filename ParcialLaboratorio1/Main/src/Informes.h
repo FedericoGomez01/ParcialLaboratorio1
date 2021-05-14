@@ -12,7 +12,6 @@
 
 void eContribuyenteRecaudacion_MostrarTodos(eContribuyente Contribuyente[], int TAM_ESTRUCTURA,eRecaudacion Recaudacion[]);
 
-void eInstrumentoMusico_MostrarUno(eContribuyente Contribuyente);
 
 int eContribuyenteRecaudacion_Alta(eContribuyente Contribuyente[], int TAM_ESTRUCTURA, eRecaudacion Recaudacion[], int * id);
 
